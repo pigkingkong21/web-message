@@ -3,7 +3,6 @@ This project is web message service
 
 > 프로젝트에 사용되어지는 기술
 >   >  front-end: html, css, javascript, ajax
-  
 >   >  back-end: php, mysql(mariaDB)
 
 
